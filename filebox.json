@@ -1,0 +1,1 @@
+{"twilioSEID":"your-twilio-account-id","twilioToken":"your-twilio-token","twilioPhone":"valid-twilio-number","smsFrom":"valid-twilio-number","conferenceID":"theConferenceID","validPINS":["1234","3456"],"senderEmail":"proxy@yourmail.net","engineerPhone":"+15552071111","engineerEmail":"proxy@yourmail.net","conferenceStarted":"FALSE"}
